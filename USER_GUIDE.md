@@ -1,6 +1,6 @@
 ## User Guide
 
-Hi, 😄 welcome to the User's guide to using react-native-use-styles. With react-native-use-styles you can easily de-clutter 💆‍♂️ your style code and write a better and more efficient styling code🤩.
+Hi, 😄 welcome to the User's guide to using react-native-use-styles. With `react-native-use-styles` you can easily de-clutter 💆‍♂️ your style code and write a better and more efficient styling code 🤩.
 
 This is a comprehensive guide that will let you get started easily.
 
