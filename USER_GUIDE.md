@@ -16,7 +16,7 @@ npm install react-native-use-styles --save
 
 Apart from traditional path notations and aliases you can, by using the library, adopt a different approach.
 
-In the following code we have easily created an aliases 'purple' that will set the background color to purple.
+In the following code we have easily created an aliases `purple` that will set the background color to purple.
 
 ```js
 import {Styles} from "react-native-use-styles";
