@@ -22,7 +22,7 @@ In the following code we have easily created an aliases 'purple' that will set t
 import {Styles} from "react-native-use-styles";
 
 export default Styles({
-  purple: "bg:color:purple",
+  purple: 'bg:color:purple',
 });
 ```
 
