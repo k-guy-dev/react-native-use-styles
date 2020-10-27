@@ -43,7 +43,7 @@ export default Styles({
 Approach - 2
 
 ```js
-import {Styles} from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
   purple: {
