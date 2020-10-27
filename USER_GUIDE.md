@@ -242,7 +242,7 @@ This cache will be cleared once you unmount the component. The second cache laye
 ```js
 import { setSeparator, GlobalStyles } from 'react-native-use-styles';
 
-setSeparator("-");
+setSeparator('-');
 
 export default GlobalStyles({
   purple: "fx-1 fx-direction-row",
