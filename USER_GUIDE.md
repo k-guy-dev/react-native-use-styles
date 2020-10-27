@@ -54,11 +54,11 @@ export default Styles({
 
 ### Computed and Dynamic styles
 
-'Computed styles' and 'Dynamic styles' can be easily applied using the following approach, while using 'react-native-use-style' library.
+'Computed styles' and 'Dynamic styles' can be easily applied using the following approach, while using 'useStyles' library.
 
 #### Computed styles:
 
-Here's the approach to use 'Computed Styles' using'react-native-use-styles'.
+Here's the approach to use 'Computed Styles' using 'useStyles'.
 
 ```js
 import useStyles from './my-namespaced-styles';
@@ -91,7 +91,7 @@ If the dependencies change, only styles with a computed in it will be recomputed
 
 #### Dynamic styles:
 
-Here's the approach to use 'Dynamic Styles' using'react-native-use-styles'.
+Here's the approach to use 'Dynamic Styles' using 'useStyles'.
 
 ```js
 import useStyles from './my-namespaced-styles';
