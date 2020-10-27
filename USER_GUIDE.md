@@ -1,6 +1,6 @@
 ## User Guide
 
-Hi, 😄 welcome to the User's guide to using useStyles. With useStyles you can easily de-clutter 💆‍♂️ your style code and write a better and more efficient styling code 🤩.
+Hi, 😄 welcome to the User's guide to using 'useStyles'. With 'useStyles' you can easily de-clutter 💆‍♂️ your style code and write a better and more efficient styling code 🤩.
 
 This is a comprehensive guide that will let you get started easily.
 
