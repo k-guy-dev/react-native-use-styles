@@ -125,7 +125,7 @@ Here's the approach for using namespace name.
 ```js
 import { Styles } from 'react-native-use-styles';
 
-const namespace = "sample";
+const namespace = 'sample';
 
 export default Styles(
   {
