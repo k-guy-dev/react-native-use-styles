@@ -156,7 +156,7 @@ const component = () ⇒ {
 ```
 
 ```js
-import {Styles} from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
   anotherNamespace: "fx:1 @sample.purple",
