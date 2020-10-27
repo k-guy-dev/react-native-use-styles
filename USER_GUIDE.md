@@ -111,7 +111,7 @@ const component = () ⇒ {
 And a simple styles definition as following:
 
 ```js
-import {Styles} from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
   purple: { color: 'purple' },
