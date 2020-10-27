@@ -245,7 +245,7 @@ import { setSeparator, GlobalStyles } from 'react-native-use-styles';
 setSeparator('-');
 
 export default GlobalStyles({
-  purple: "fx-1 fx-direction-row",
+  purple: 'fx-1 fx-direction-row',
 });
 ```
 
