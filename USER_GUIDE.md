@@ -36,7 +36,7 @@ Approach - 1
 import {Styles} from "react-native-use-styles";
 
 export default Styles({
-  purple: "background:color:purple",
+  purple: 'background:color:purple',
 });
 ```
 
