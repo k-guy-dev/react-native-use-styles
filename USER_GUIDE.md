@@ -33,7 +33,7 @@ The above given code is equivalent to the approaches given below.
 Approach - 1
 
 ```js
-import {Styles} from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
   purple: 'background:color:purple',
