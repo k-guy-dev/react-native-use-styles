@@ -19,7 +19,7 @@ Apart from traditional path notations and aliases you can, by using the library,
 In the following code we have easily created an aliases `purple` that will set the background color to purple.
 
 ```js
-import {Styles} from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
   purple: 'bg:color:purple',
