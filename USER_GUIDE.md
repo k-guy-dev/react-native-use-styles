@@ -240,7 +240,7 @@ This cache will be cleared once you unmount the component. The second cache laye
 ### setSeparator
 
 ```js
-import {setSeparator, GlobalStyles} from "react-native-use-styles";
+import { setSeparator, GlobalStyles } from 'react-native-use-styles';
 
 setSeparator("-");
 
