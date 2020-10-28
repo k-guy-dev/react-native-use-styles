@@ -129,7 +129,7 @@ const namespace = 'sample';
 
 export default Styles(
   {
-    purple: 'color:purple',
+    purple: 'color:purple'
   },
   namespace
 );
