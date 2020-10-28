@@ -19,10 +19,10 @@ Apart from traditional path notations and aliases you can, by using the library,
 In the following code we have easily created an aliases `purple` that will set the background color to purple.
 
 ```js
-import { Styles } from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
-  purple: "bg:color:purple",
+  purple: 'bg:color:purple',
 });
 ```
 
@@ -33,17 +33,17 @@ The above given code is equivalent to the approaches given below.
 Approach - 1
 
 ```js
-import { Styles } from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
-  purple: "background:color:purple",
+  purple: 'background:color:purple',
 });
 ```
 
 Approach - 2
 
 ```js
-import { Styles } from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
   purple: {
@@ -111,10 +111,10 @@ const Component = () ⇒ {
 And a simple styles definition as following:
 
 ```js
-import { Styles } from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
-  purple: { color: "purple" },
+  purple: { color: 'purple' },
 });
 ```
 
@@ -123,9 +123,9 @@ export default Styles({
 Here's the approach for using namespace name.
 
 ```js
-import { Styles } from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
-const namespace = "sample";
+const namespace = 'sample';
 
 export default Styles(
   {
@@ -156,10 +156,10 @@ const Component = () ⇒ {
 ```
 
 ```js
-import { Styles } from "react-native-use-styles";
+import { Styles } from 'react-native-use-styles';
 
 export default Styles({
-  anotherNamespace: "fx:1 @sample.purple",
+  anotherNamespace: 'fx:1 @sample.purple',
 });
 ```
 
@@ -240,12 +240,12 @@ This cache will be cleared once you unmount the component. The second cache laye
 ### setSeparator
 
 ```js
-import { setSeparator, GlobalStyles } from "react-native-use-styles";
+import { setSeparator, GlobalStyles } from 'react-native-use-styles';
 
 setSeparator('-');
 
 export default GlobalStyles({
-  purple: "fx-1 fx-direction-row",
+  purple: 'fx-1 fx-direction-row',
 });
 ```
 
