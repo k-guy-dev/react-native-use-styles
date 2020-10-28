@@ -114,7 +114,7 @@ And a simple styles definition as following:
 import { Styles } from 'react-native-use-styles';
 
 export default Styles({
-  purple: { color: 'purple' },
+  purple: { color: 'purple' }
 });
 ```
 
